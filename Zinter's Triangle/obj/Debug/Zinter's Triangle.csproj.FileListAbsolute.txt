@@ -1,0 +1,6 @@
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter's Triangle\bin\Debug\Zinter's Triangle.exe.config
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter's Triangle\bin\Debug\Zinter's Triangle.exe
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter's Triangle\bin\Debug\Zinter's Triangle.pdb
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter's Triangle\obj\Debug\Zinter's Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter's Triangle\obj\Debug\Zinter's Triangle.exe
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter's Triangle\obj\Debug\Zinter's Triangle.pdb

@@ -1,0 +1,20 @@
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter'sTriangleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter'sTriangleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter'sTriangleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter'sTriangleTest\bin\Debug\Zinter'sTriangleTest.dll
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter'sTriangleTest\bin\Debug\Zinter'sTriangleTest.pdb
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter'sTriangleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter'sTriangleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter'sTriangleTest\bin\Debug\Zinter's Triangle.exe
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter'sTriangleTest\bin\Debug\Zinter's Triangle.pdb
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter'sTriangleTest\bin\Debug\Zinter's Triangle.exe.config
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter'sTriangleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter'sTriangleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter'sTriangleTest\obj\Debug\Zinter'sTriangleTest.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter'sTriangleTest\obj\Debug\Zinter'sTriangleTest.dll
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter'sTriangleTest\obj\Debug\Zinter'sTriangleTest.pdb
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter'sTriangleTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter'sTriangleTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter'sTriangleTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter'sTriangleTest\obj\Debug\Zinter'sTriangleTest.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\Zinter's Triangle\Zinter'sTriangleTest\obj\Debug\Zinter'sTriangleTest.csproj.CopyComplete
